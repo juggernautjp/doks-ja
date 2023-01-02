@@ -1,0 +1,32 @@
+- id: get-started
+  translation: "はじめに"
+
+- id: on-this-page
+  translation: "このページで"
+
+- id: search-text
+  translation: "ドキュメントを検索する..."
+
+- id: 404-title
+  translation: "ページが見つかりません"
+
+- id: 404-text
+  translation: "お探しのページは存在しないか、移動されました。"
+
+- id: browse
+  translation: "ブラウズ"
+
+- id: embedded-videos
+  translation: "申し訳ございませんが、お使いのブラウザは埋め込みビデオに対応していません。"
+
+- id: last-modified
+  translation: "最終更新日:"
+
+- id: related-posts
+  translation: "関連記事"
+
+- id: expand
+  translation: "展開する"
+
+- id: collapse
+  translation: "折りたたむ"
